@@ -12,4 +12,4 @@ The objective of this project is to build a Vehicle Parking management system th
 
 I have added my python code for this project which needs a user created mysql file or database to run this project.
 
-I have made this project in a group and the members includes:- Puru Johri , Aditya Sharma , Priyanshu Rana , Ujjwal Upadhyay and created a repository here on github.
+I have made this project in a group and the members includes:- Me ,Puru Johri , Aditya Sharma , Priyanshu Rana and created a repository here on github.
